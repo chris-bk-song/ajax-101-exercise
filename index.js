@@ -11,6 +11,6 @@ generateButton.addEventListener('click', function() {
       images.innerHTML = ''; //add this line so images are replaced for every click
       images.appendChild(img)
     }); 
-    generateButton.innerHTML ="Generate Doggo again"; //change text inside button after button click
+    generateButton.innerHTML ="Generate Doggo"; //change text inside button after button click
 });
 
